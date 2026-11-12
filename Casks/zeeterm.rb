@@ -1,6 +1,6 @@
 cask "zeeterm" do
-  version "1.0.5"
-  sha256 "1ea21a7c221376a51baa93cdba24fa763db03adf140402c355e61a9dfec5d6e5"
+  version "1.0.6"
+  sha256 "5a84db22d803ae6f8fac4afccdf05dd4f2218d0be0d392a62c8f81ec11ee639e"
 
   url "https://github.com/MoeShinX/ZeeTerm/releases/download/v#{version}/ZeeTerm-#{version}-macos-arm64.zip"
   name "ZeeTerm"
